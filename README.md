@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hishamthajudheen&theme=buddhism" alt="hishamthajudheen" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Django and FastAPI**
 - 📫 How to reach me **hishamthajudheen@gmail.com**
 
